@@ -1,0 +1,62 @@
+/* Social Links */
+.social-links {
+    margin: 1rem 0;
+}
+
+.social-links a {
+    color: #333;
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #007bff;
+}
+
+/* Publications Section */
+.publications {
+    margin-top: 2rem;
+}
+
+.publications h2 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.paper-list {
+    list-style: none;
+    padding: 0;
+}
+
+.paper-list li {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.paper-list li:last-child {
+    border-bottom: none;
+}
+
+.paper-list strong {
+    color: #333;
+    font-size: 1.1rem;
+}
+
+.paper-list em {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.paper-list a {
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.paper-list a:hover {
+    text-decoration: underline;
+} 

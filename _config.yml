@@ -1,6 +1,5 @@
 lsi: false
 safe: true
-source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
 gist:
@@ -8,3 +7,23 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+title: Martin Sipka
+description: Personal website and portfolio
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .github
