@@ -23,11 +23,13 @@ layout: default
 </div>
 
 <div class="bio">
-    <p>Hello! I'm Martin Šípka, a research engineer at Amazon Web Services working on AWS Transcribe, where I focus on speech-to-text model development and their GPU-efficient implementations.</p>
+    <p>Hello! I'm Martin Šípka, a researcher at Amazon Web Services working on <a href="https://aws.amazon.com/transcribe/" target="_blank">Amazon Transcribe</a>, where I focus on speech-to-text model development and their GPU-efficient implementations.</p>
     
-    <p>I hold a PhD from Charles University and was a visiting PhD student at MIT, where I worked with Professor Rafael Gómez-Bombarelli on rare events sampling using differentiable molecular dynamics. My background includes strong expertise in C++, Python, and modern deep learning frameworks, along with experience in fluid dynamics and numerical mathematics.</p>
+    <p>I obtained a PhD from Charles University under <a href="https://www.karlin.mff.cuni.cz/~pavelka/" target="_blank">Michal Pavelka</a> on the intersection of physics and machine learning, focusing mostly on enhanced sampling of chemical reactions. During my PhD, I was a visiting student at MIT, where I worked with <a href="https://gomezbombarelli.mit.edu/" target="_blank">Professor Rafael Gómez-Bombarelli</a> on rare events sampling using differentiable molecular dynamics. My background includes strong expertise in C++, Python, and modern deep learning frameworks, along with experience in fluid dynamics and numerical mathematics.</p>
 
-    <p>My current research interests are focused on diffusion and flow matching models, particularly exploring the properties of energy landscapes that emerge during their training and the dynamical properties of their inference.</p>
+    <p>My current research interests are focused on diffusion and flow matching models, particularly exploring the properties of energy landscapes that emerge during their training and the dynamical properties of their inference. Feel free to reach out if you'd like to discuss any of these topics!</p>
+
+    <p>I am a proud player on the <a href="https://krakenhockeyleague.com/team/8115/home" target="_blank">Yetties hockey team</a> in the Seattle Kraken Hockey League and an amateur guitarist looking for a spot in an equally amateur rock band.</p>
 </div>
 
 <div class="publications">
